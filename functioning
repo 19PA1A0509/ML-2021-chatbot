@@ -1,0 +1,26 @@
+The functioning of mimi seems to be simple but is a very intresting one.
+
+1.she greets you according to time and asks for your name.
+You'll have to give your name as input.
+Then she says what are the tasks she can perform.
+Then you must choose what you want to do with her.
+
+2. (Happiness lies in the little things..right?)
+If you want to see how many days old are you
+She asks you to give your birthday in yyyy/mm/dd format
+and when you proceed, she calculates in her brain..i.e, memory and gives you the output.
+
+3.if you want to know the day you are born
+Mimi asks you for your birthday
+and when you give it she sees her calendar and gives you the day you were born.
+
+4. And if you are too bored and have no one to play with..you can play handcricket with her
+first you'll have to choose between batting or bowling
+if you choose to bat
+you have to give a score of 1-6 in each ball for 10 balls and either does she.
+if your inputs coincide, you'll be out or else at the end who has the highest score wins
+the same goes with the bowling
+if your inputs coincide,she'll be the looser or else 
+winner is declared by adding up the scores.
+
+you may play with her until you are bored.
